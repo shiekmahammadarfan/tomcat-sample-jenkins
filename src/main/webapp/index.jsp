@@ -119,7 +119,7 @@
 
   <section class="container">
     <div class="card">
-      <img src="https://via.placeholder.com/300x150?text=About+Me" alt="About Me Image">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KfHzyNGddPHHWjoBsqo-eetxsB1dGwbQ4A&s" alt="About Me Image">
       <h3>About Me</h3>
       <p>I love building beautiful, functional websites and experimenting with cool UI/UX ideas.</p>
     </div>
